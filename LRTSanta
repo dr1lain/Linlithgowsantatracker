@@ -244,9 +244,3 @@ Only update the two lines marked // ← amend this …
   </script>
 </body>
 </html>
-
-🪄 Step 9 — Publish on GitHub Pages
-1.	Go to your repo Settings → Pages
-2.	Under “Build and deployment”:
-o	Source: Deploy from a branch
-o	Branch: main → / (root)
